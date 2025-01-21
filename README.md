@@ -23,15 +23,27 @@ In conclusion, the integration of visitor flow prediction and microclimate data 
 
 References:
 Alazaizeh, M., Jamaliah, M., Mgonja, J., & Ababneh, A. (2019). Tour guide performance and sustainable visitor behavior at cultural heritage sites. Journal of Sustainable Tourism, 27(11), 1708-1724. https://doi.org/10.1080/09669582.2019.1658766
+
 Chen, D. (2023). How visitors perceive heritage value—a quantitative study on visitors’ perceived value and satisfaction of architectural heritage through sem. Sustainability, 15(11), 9002. https://doi.org/10.3390/su15119002
+
 Flint, A. and Jennings, B. (2021). The role of cultural heritage in visitor narratives of peatlands: analysis of online user-generated reviews from three peatland sites in england. International Journal of Heritage Studies, 28(2), 163-179. https://doi.org/10.1080/13527258.2021.1941198
+
 Flyen, A. (2023). Exploring vulnerability indicators: tourist impact on cultural heritage sites in high arctic svalbard. Heritage, 6(12), 7706-7726. https://doi.org/10.3390/heritage6120405
+
 Kempiak, J., Hollywood, L., Bolan, P., & McMahon‐Beattie, U. (2017). The heritage tourist: an understanding of the visitor experience at heritage attractions. International Journal of Heritage Studies, 23(4), 375-392. https://doi.org/10.1080/13527258.2016.1277776
+
 Kim, H., Oh, C., Lee, S., & Lee, S. (2017). Assessing the economic values of world heritage sites and the effects of perceived authenticity on their values. International Journal of Tourism Research, 20(1), 126-136. https://doi.org/10.1002/jtr.2169
+
 Molina, M., Gutiérrez, C., & Sánchez, E. (2021). Comparison of era5 surface wind speed climatologies over europe with observations from the hadisd dataset. International Journal of Climatology, 41(10), 4864-4878. https://doi.org/10.1002/joc.7103
+
 Mostafa, T., Brissette, F., & Arsenault, R. (2020). Evaluation of the era5 reanalysis as a potential reference dataset for hydrological modelling over north america. Hydrology and Earth System Sciences, 24(5), 2527-2544. https://doi.org/10.5194/hess-24-2527-2020
+
 Rojas, R., Río, J., Ibáñez, A., & Vergara-Romero, A. (2021). The cultural and heritage tourist, sem analysis: the case of the citadel of the catholic king. Heritage Science, 9(1). https://doi.org/10.1186/s40494-021-00525-0
+
 Song, H. and Kim, H. (2018). Value-based profiles of visitors to a world heritage site: the case of suwon hwaseong fortress (in south korea). Sustainability, 11(1), 132. https://doi.org/10.3390/su11010132
+
 Suyuti, H. (2023). The use of augmented reality technology in preserving cultural heritage: a case study of old jami mosque of palopo. Ceddi Journal of Information System and Technology (Jst), 2(1), 28-37. https://doi.org/10.56134/jst.v2i1.35
+
 Wang, B., Chen, D., & Song, M. (2022). Study on the applicability of era5 reanalysis data at lake taihu. Journal of Geoscience and Environment Protection, 10(12), 1-16. https://doi.org/10.4236/gep.2022.1012001
+
 Yao, L., Lu, J., Xia, X., Jing, W., & Liu, Y. (2021). Evaluation of the era5 sea surface temperature around the pacific and the atlantic. Ieee Access, 9, 12067-12073. https://doi.org/10.1109/access.2021.3051642
