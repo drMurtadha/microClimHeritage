@@ -61,9 +61,7 @@ Pelancongan mampan boleh menjadi pemacu utama untuk pembangunan ekonomi dan peme
 ## Langkah-langkah Pemantauan untuk Kelestarian
 Pemantauan alam sekitar adalah asas kepada usaha kelestarian rantau. Ia membolehkan pengumpulan data rentas sempadan untuk memahami isu seperti pencemaran udara, perubahan iklim, dan pengurusan sumber semula jadi. Inisiatif seperti pemantauan bersama antara negara-negara SIJORI membolehkan maklumat dikongsi dan tindakan diambil secara kolektif. Sebagai contoh, pemantauan kualiti udara merentasi Singapura, Johor, dan Kepulauan Riau dapat membantu mengurangkan impak jerebu dan meningkatkan kesihatan awam. Dengan langkah-langkah seperti ini, kita dapat melindungi alam sekitar sambil menyokong pembangunan ekonomi.
 
-Sure, here's the continuation from Slide 13:
 
-```markdown
 # Slide 13: Kajian Kes SIJORI
 
 ## Kejayaan Projek di Rantau SIJORI
